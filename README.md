@@ -3,7 +3,7 @@
 <p><img src="termina-gh.gif" alt="Terminal GH GIF" /></p>
 </div>
 
-<div class="markdown-heading" dir="auto"><h2 align="center" class="heading-element" dir="auto">Live,Learn,Commit.</h2></div>
+<div class="markdown-heading" dir="auto"><h1 align="center" class="heading-element" dir="auto">Live,Learn,Commit.</h1></div>
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Eshupatel&style=flat-square&color=blue" alt=""/>
@@ -45,17 +45,21 @@
 ###
 
 <div align="center">
-  <img src= "https://github-readme-stats.vercel.app/api?username=EshuPatel&show_icons=true&theme=dark"https://github.com/EshuPatel/>
+  <img src= "https://github-readme-stats.vercel.app/api?username=EshuPatel&show_icons=true&theme=dark"https://github.com/EshuPatel/">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=EshuPatel&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="hackerrank logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="52" height="40" alt="medium logo"  />
+  <a href="www.linkedin.com/in/eshu-patel-">
+      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  /></a>
+<a href="mailto: eshupatel066@gmail.com"> 
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  /></a>
+ <a href="https://www.hackerrank.com/profile/eshupatel066">
+     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="hackerrank logo"  /></a>
+ <a href="https://medium.com/@eshupatel066">
+     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="52" height="40" alt="medium logo"  /></a>
 </div>
 
 
@@ -64,22 +68,23 @@
 
 
 
+
 <p align="center">Live. Learn. Commit.</p>
-
-
-<img src="https://raw.githubusercontent.com/EshuPatel/EshuPatel/output/snake.svg" alt="Snake animation" />
-
-
-###
 <div align="center" id="badges">
-  <a href="https://www.linkedin.com/in/eshu-patel-/">
+    <a href="mailto: eshupatel066@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail Badge"/>
+  </a>
+    <a href="https://www.linkedin.com/in/eshu-patel-/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  <a href="https://www.geeksforgeeks.org/user/eshupatel066/">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-olive?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GFG Badge"/>
   </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  <a href="https://leetcode.com/u/terry_32/">
+    <img src="https://img.shields.io/badge/Leetcode-purple?style=for-the-badge&logo=Leetcode&logoColor=white" alt="Leetcode Badge"/>
+  </a>
+    <a href="https://medium.com/@eshupatel066">
+    <img src="https://img.shields.io/badge/Medium-orange?style=for-the-badge&logo=Medium&logoColor=white" alt="Medium Badge"/>
   </a>
 </div>
 
